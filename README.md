@@ -1,6 +1,3 @@
-# Mi-lista-personal-
-Solo es para mi
-
 #EXTM3U
 
 #EXTINF:-1 , Nuevo tiempo Peru
